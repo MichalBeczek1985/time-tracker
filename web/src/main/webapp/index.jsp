@@ -15,5 +15,6 @@
   <p>
     This is a very simple example web page on a JSP.
   </p>
+  <p> i kolejny po nowym deployowaniu</p>
 </body>
 </html>
